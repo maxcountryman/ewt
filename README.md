@@ -44,5 +44,4 @@ This facilities the transference of claims between applications.
 
 Copyright © 2015 Max Countryman
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the BSD 3-Clause license.
